@@ -10,3 +10,9 @@ A simple Marco Polo command-line tool.  Displays different colored output depend
 
 [![Python application test with Github Actions](https://github.com/noahgift/marco-polo-cli/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/marco-polo-cli/actions/workflows/main.yml)
 
+
+
+
+#### instructions to install environment in aws:
+python3 -m venv /home/ec2-user/environment/Project/VENV
+source VENV/bin/activate
