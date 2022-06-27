@@ -22,4 +22,4 @@ def func(name):
         click.echo(click.style(result, bg="red", fg="white"))
 
 if __name__ == "__main__":
-    func()
+    func("Marco")
